@@ -17,9 +17,11 @@ No diretório resources, existe:
   
   3. Arquivo base.robot: arquivo base do projeto, informações como Inicialização do Browser, Libraries, Keywords e outras que podem ser reusadas em múltiplas suites estão aqui
   
-    3.1 - Para testar os cenários web; utilizei a Library Browser, gosto de utilizá-la pois não preciso me preocupar com drivers e versões. A própria library cuida disto;
+    3.1 - Para testar os cenários web; utilizei a Library Browser, gosto de utilizá-la 
+    pois não preciso me preocupar com drivers e versões. A própria library cuida disto;
     
-    3.2 - Para fazer a leitura dos arquivos JSONs e utilizá-los na suite de testes; usei a Library OperatingSystem
+    3.2 - Para fazer a leitura dos arquivos JSONs e utilizá-los na suite de testes; 
+    usei a Library OperatingSystem
     
 No diretório logs: estão os screenshots dos testes executados e as métricas: report.html é o sumário da execução; log.html mostra o step-by-step da execução e o screenshot
 no final de cada teste.
