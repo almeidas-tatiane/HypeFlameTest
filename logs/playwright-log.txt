@@ -1,0 +1,25 @@
+{"level":30,"time":"2021-09-25T23:02:02.128Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Listening on 60638"}
+{"level":30,"time":"2021-09-25T23:02:02.653Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-09-25T23:02:02.667Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active context"}
+{"level":30,"time":"2021-09-25T23:02:02.877Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Video path: undefined"}
+{"level":30,"time":"2021-09-25T23:02:02.878Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active page"}
+{"level":30,"time":"2021-09-25T23:02:05.041Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Retrieved text for element h1 containing Resultados da busca por:"}
+{"level":30,"time":"2021-09-25T23:02:05.791Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Retrieved text for element css = .page-title>span containing Camunda"}
+{"level":30,"time":"2021-09-25T23:02:05.933Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active context"}
+{"level":30,"time":"2021-09-25T23:02:05.933Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changing current active page"}
+{"level":30,"time":"2021-09-25T23:02:05.933Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active page"}
+{"level":30,"time":"2021-09-25T23:02:05.952Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active context"}
+{"level":30,"time":"2021-09-25T23:02:05.952Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changing current active page"}
+{"level":30,"time":"2021-09-25T23:02:05.952Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active page"}
+{"level":30,"time":"2021-09-25T23:02:06.417Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-09-25T23:02:06.427Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active context"}
+{"level":30,"time":"2021-09-25T23:02:06.648Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Video path: undefined"}
+{"level":30,"time":"2021-09-25T23:02:06.648Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active page"}
+{"level":30,"time":"2021-09-25T23:02:07.815Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Retrieved text for element h1 containing Resultados da busca por:"}
+{"level":30,"time":"2021-09-25T23:02:08.869Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Retrieved text for element css = .page-header > h1 containing Nenhum resultado"}
+{"level":30,"time":"2021-09-25T23:02:09.013Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active context"}
+{"level":30,"time":"2021-09-25T23:02:09.013Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changing current active page"}
+{"level":30,"time":"2021-09-25T23:02:09.013Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active page"}
+{"level":30,"time":"2021-09-25T23:02:09.028Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active context"}
+{"level":30,"time":"2021-09-25T23:02:09.028Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changing current active page"}
+{"level":30,"time":"2021-09-25T23:02:09.028Z","pid":10424,"hostname":"DESKTOP-1TCA0I6","msg":"Changed active page"}
