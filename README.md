@@ -1,7 +1,7 @@
 Projeto para o desafio da HypeFlame
 
-Framework utilizado: Robot Famework
-Estrutura de organização utilizada: App Actions
+Framework utilizado: Robot Famework / Estrutura de organização utilizada: App Actions
+
 Cenários testados: 
   1. Pesquisar artigos com um título válido
   2. Pesquisar artigos com combinações inválidas
